@@ -1,3 +1,7 @@
+'''
+Runtime: 36 ms, faster than 49.61% of Python3 online submissions for Longest Common Prefix.
+Memory Usage: 14.2 MB, less than 100.00% of Python3 online submissions for Longest Common Prefix.
+'''
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         res = []
